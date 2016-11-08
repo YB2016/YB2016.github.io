@@ -1,23 +1,34 @@
 # Site settings
-title: HyG
-email: gaohaoyang126@126.com
-description: 浩阳的博客 前端爱好者
-# > # this means to ignore newlines until "baseurl:"
-#   Write an awesome description for your new site here. You can edit this
-#   line in _config.yml. It will appear in your document head meta (for
-#   Google search results) and in your feed.xml site description.
+title: 生命不止，折腾不息
+author: MonsterSlayer
+author_avatar: /images/header.jpg
+email: alias@domain.tld
+description: 生命不止，折腾不息 
+url: "https://dongyado.github.io"
+domain: "http://dongyado.com"
+github_username: dongyado
+github_site_repo: dongyado/dongyado.github.io
+disqus: monsterslayer
 
-# baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-github_username:  Gaohaoyang
-permalink: /:year/:month/:day/:title/
 
 # Build settings
+highlighter: rouge
 markdown: kramdown
+kramdown:
+    syntax_highlighter: rouge
+    extensions: ["fenced_code_blocks", "autolink", "tables", "smart"]
 
-# highlight
-# 本地用rouge, github上用pygments
-# highlighter: pygments
-# highlighter: rouge
-# highlighter: false
+sass:
+    style: :compressed
+    sass_dir: _sass
+
+permalink: pretty
+excerpt_separator: "<!-- more -->"
+
+# path
+categories_path: categories/
+tags_path: tags/
+
+
+gems:
+  - jekyll-sitemap
