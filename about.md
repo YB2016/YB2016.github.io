@@ -8,29 +8,14 @@ author_footer: false
 
 ## 个人信息
 
-dongyado, 1990, ShenZhen
+chris, 1988, Tianshui
 
 喜欢两句话：
 
-* 生命不止，折腾不息 
+* Think big, do small 
 
-* Just for fun -- by linus
+* Stay hungry, stay foolish
 
-## 项目
-
-#### 1.ip2region
-
-准确率99.9%的ip到地名的映射库，0.0x毫秒级查询,数据库文件大小只有1.5M, 提供了java, php, c, python， php扩展等查询客户端
-
-* [ip2region@github][]
-* [ip2region@osc][] 
-
-#### 2. Jcseg
-
-Jcseg是基于mmseg算法的一个轻量级中文分词器
-
-* [Jcseg@osc][] 
-* [Jcseg@github][] 
 
 
 ## 关于本站
