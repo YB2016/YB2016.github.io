@@ -1,64 +1,34 @@
-# Mandatory settings
+# Site settings
+title: 生命不止，折腾不息
+author: MonsterSlayer
+author_avatar: /images/header.jpg
+email: alias@domain.tld
+description: 生命不止，折腾不息 
+url: "https://dongyado.github.io"
+domain: "http://dongyado.com"
+github_username: dongyado
+github_site_repo: dongyado/dongyado.github.io
+disqus: monsterslayer
 
-baseurl: /
-name: Chalk
-paginate: 25
-paginate_path: "/posts/page/:num/"
-url: # add site url http://example.com/
-blog_theme: light # Or use dark
 
-# Optional settings
+# Build settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+    syntax_highlighter: rouge
+    extensions: ["fenced_code_blocks", "autolink", "tables", "smart"]
 
-discus_identifier: # Add your Disqus identifier
-ga_analytics: # Add your GA Tracking Id
-rss_enabled: true # Change to false if not
-social:
-  dribbble: # Add your Dribbble link
-  facebook: # Add your Facebook link
-  github: # Add your GitHub link
-  linkedin: # Add your LinkedIn link
-  twitter: # Add your Twitter handle
-  email: # Add your Email address
-  bitcoin: # Add your Bitcoin link or address
+sass:
+    style: :compressed
+    sass_dir: _sass
 
-# Important settings (change at own risk)
+permalink: pretty
+excerpt_separator: "<!-- more -->"
 
-assets:
-  compress:
-    css: true
-    js: true
-  features:
-    automatic_img_size: false
-  sources:
-    - _assets/bower
-    - _assets/fonts
-    - _assets/images
-    - _assets/javascripts
-    - _assets/stylesheets
-    - _vendor/
-collections:
-  my_tags:
-    output: true
-    permalink: /tag/:slug/
-defaults:
-  -
-    scope:
-      path: ""
-      type: my_tags
-    values:
-      layout: articles_by_tag
-exclude:
-  - .bowerrc
-  - .travis.yml
-  - bin/*
-  - bower.json
-  - circle.yml
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - vendor/
+# path
+categories_path: categories/
+tags_path: tags/
+
+
 gems:
-  - jekyll-assets
-  - jekyll-paginate
   - jekyll-sitemap
-permalink: posts/:slug
