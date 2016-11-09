@@ -1,7 +1,7 @@
 ---
 layout: post
 title: winter has coming
-date: 2016-11-09 11:32:30.000000000 +08:00
+date: 2016-11-09 11:56:18.000000000 +08:00
 categories:
 - 生活日志
 tags: [随笔]
@@ -9,8 +9,8 @@ status: publish
 type: post
 published: true
 meta:
-  _edit_last: '1'
-  _wp_old_slug: hello-world
+  _edit_last: '1'
+  _wp_old_slug: hello-world
   views: '1'
 author:
   login: slayer
@@ -19,6 +19,9 @@ author:
   first_name: ''
   last_name: ''
 ---
+
+<!-- more -->
+
 萧萧瑟瑟的风吹过了河流，吹过了高山，吹进了院子，吹红了爬山虎，吹厚了人们身上的衣服。
 
 冬天又快要来了！
