@@ -1,9 +1,9 @@
-dongyado's blog
+chris's blog
 =====
 
 ### 
-- notes of development
-- some thoughts.
+- studying notes
+- some thoughts
 
 ### 
 - Based on jekyll and github pages.
