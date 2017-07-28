@@ -13,9 +13,9 @@ meta:
   _wp_old_slug: hello-world
   views: '1'
 author:
-  login: Chris
+  login: slayer
   email: wy8812@gmail.com
-  display_name: Chris
+  display_name: slayer
   first_name: ''
   last_name: ''
 ---
