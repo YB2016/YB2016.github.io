@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CAD图形转JPG
+title: CADtoJPG
 date: 2017-7-28 10:03:18.000000000 +08:00
 categories:
 - 工作日志
