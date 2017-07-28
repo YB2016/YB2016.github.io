@@ -1,18 +1,26 @@
 ---
 layout: post
 title: CAD图形转JPG
-date: 2017-7-28 10:03:18.000000000 +08:00
+date: 2016-11-09 11:56:18.000000000 +08:00
 categories:
 - 工作日志
 tags: [教程]
 status: publish
 type: post
 published: true
-
+meta:
+  _edit_last: '1'
+  _wp_old_slug: hello-world
+  views: '1'
+author:
+  login: slayer
+  email: wy8812@gmail.com
+  display_name: slayer
+  first_name: ''
+  last_name: ''
 ---
 
 <!-- more -->
-
 对于AutoCAD的初学者来说，初步掌握了一些基本的操作技能，可以画一些简单的图形，就已经迈出了第一步。逐渐深入学习后，慢慢的就会出现很多问题，我今天要聊的这个问题相信大家都会遇到：一个CAD的图形怎样才能转成一张图片，而且这张图片的分辨率要高，图片上的内容不失真。
 
 ### 第一种方法——CAD——PDF——JPG
