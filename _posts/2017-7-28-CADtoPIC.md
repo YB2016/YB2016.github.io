@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CADtoJPG
+title: CAD图形转JPG
 date: 2017-7-28 10:03:18.000000000 +08:00
 categories:
 - 工作日志
@@ -8,16 +8,7 @@ tags: [教程]
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: hello-world
-  views: '1'
-author:
-  login: slayer
-  email: wy8812@gmail.com
-  display_name: slayer
-  first_name: ''
-  last_name: ''
+
 ---
 
 <!-- more -->
