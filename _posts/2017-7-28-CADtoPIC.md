@@ -31,34 +31,34 @@ author:
 
 2、Ctrl+p或者“文件—打印”，调出打印文件的窗口。
 
-![image](https://github.com/YB2016/YB2016.github.io/blob/master/images/print.JPG)
+![print.JPG](https://i.loli.net/2018/12/03/5c0498d6c20ce.jpg)
 
 3、在打印窗口中找到“打印机/绘图仪”，点开下拉菜单，找到DWG To PDF.pc3。注：我手头两台电脑分别安装了AutoCAD2004、2008和2016,2004版本的没有这个选项，其余的两个都有。
 
-![image](https://github.com/YB2016/YB2016.github.io/blob/master/images/print2.png)
+![print2.png](https://i.loli.net/2018/12/03/5c049b026d013.png)
 
 4、选好DWG To PDF.pc3之后，在下面的“打印范围”中选“窗口”，这时，就会弹回到CAD的主窗口，光标变成选择状态，框选你需要转换的内容，又跳回打印窗口，然后点击右下角的箭头，点选图形的方向，调整合适后，点击“确定”。选择合适的路径、给定保存文件名称，然后保存这个PDF文件。
 
-![image](https://github.com/YB2016/YB2016.github.io/blob/master/images/print3.png)
+![print3.png](https://i.loli.net/2018/12/03/5c0498d7885fe.png)
 
 
 5、我们打开刚才保存的路径，可以看到有个PDF文件出现。单击右键，“打开方式—Photoshop打开”。
 
-![image](https://github.com/YB2016/YB2016.github.io/blob/master/images/pdf.JPG)
+![pdf.JPG](https://i.loli.net/2018/12/03/5c0498d4cb0ee.jpg)
 
-![image](https://github.com/YB2016/YB2016.github.io/blob/master/images/open.png)
+![open.png](https://i.loli.net/2018/12/03/5c0498d72d3ad.png)
 
-![image](https://github.com/YB2016/YB2016.github.io/blob/master/images/open2.png)
+![open2.png](https://i.loli.net/2018/12/03/5c0498d5ca05f.png)
 
 6、使用Photoshop打开后，图形界面呈虚化的像素格状态，没关系，继续下一步。
 
-![image](https://github.com/YB2016/YB2016.github.io/blob/master/images/open3.png)
+![open3.png](https://i.loli.net/2018/12/03/5c0498d875d52.png)
 
 7、点击“文件—存储为”，调出另存为的窗口，给定文件名称，然后在“保存类型”一栏中，点选“JPEG(.JPG,.JPEG,.JPE)”.
 
-![image](https://github.com/YB2016/YB2016.github.io/blob/master/images/save1.png)
+![save1.png](https://i.loli.net/2018/12/03/5c0498d875d52.png)
 
-![image](https://github.com/YB2016/YB2016.github.io/blob/master/images/save2.png)
+![save2.png](https://i.loli.net/2018/12/03/5c0498d7d3203.png)
 
 8、这样，就生成了一个JPG文件，打开后可以通过放大缩小来检验图片的质量。
 
